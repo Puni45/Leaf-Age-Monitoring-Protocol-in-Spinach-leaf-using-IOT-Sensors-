@@ -86,5 +86,9 @@ Leaf Age: 31.32 days
 - 📱 Develop a mobile app for real-time monitoring
 - 🔋 Optimize power consumption for field deployment
 
+## ✍️ Author
+Puneeth Kumar B C
+
+GitHub: @Puni45
 
 
