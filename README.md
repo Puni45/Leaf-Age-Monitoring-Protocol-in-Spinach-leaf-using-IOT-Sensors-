@@ -1,8 +1,8 @@
 # Leaf-Age-Monitoring-Protocol-in-Spinach-leaf-using-IOT-Sensors
 
-# 🌱 Spinach Leaf Age & Chlorophyll Prediction System 🍃
+# 🌱 Spinach Leaf Age & Chlorophyll Prediction System
 
-> *A smart IoT solution that blends plant science with microcontrollers.*
+
 
 ---
 
